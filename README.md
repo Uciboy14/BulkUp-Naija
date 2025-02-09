@@ -1,16 +1,24 @@
-# bulkup_naija
+# BulkUp Naija - Nigerian Weight Gain Meal Planner 🥑🥩
 
-A new Flutter project.
+BulkUp Naija is a **Flutter-based** mobile app designed to help Nigerians gain weight effectively with a structured **meal plan, shopping list, and AI-powered guidance**.
 
-## Getting Started
+## 🚀 Features
+✅ **Personalized Meal Plans** – Tailored Nigerian meals for weight gain  
+✅ **AI Assistant** – Smart meal recommendations & weight tracking  
+✅ **Shopping List** – Auto-generated ingredient list for meal plans  
+✅ **Calorie Tracker** – Monitor daily calorie intake & progress  
+✅ **Dark Green Theme** – Sleek, modern, and easy on the eyes  
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Frontend:** Flutter (Dart)  
+- **Backend:** Firebase / Custom API  
+- **AI Integration:** Chat-based meal recommendations  
 
-A few resources to get you started if this is your first Flutter project:
+## 📲 Why BulkUp Naija?
+This app is built for **Nigerians and Africans** looking to **gain healthy weight** using **local meals** while leveraging AI for a seamless experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Installation
+1. Clone the repository:  
+   ```sh
+   git clone <your-repo-url>
+   cd bulkup_naija
